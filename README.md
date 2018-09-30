@@ -26,6 +26,5 @@ Valid objects are those that satisfy the class invariant of Singly Linked List, 
 
 <img width="401" alt="captura de pantalla 2018-09-30 a la s 20 14 55" src="https://user-images.githubusercontent.com/7095602/46264011-860b9780-c4ed-11e8-9021-8e058cda1977.png">
 
-
-
+Commonly, class invariants are not present in the data structures implementations and thus some program analysis tools can't be fully exploited. So, if you are able to obtain an adequate dataset containing valid and invalid objects of some data structure, a neural network can be trained in order to approximate the real class invariant, and then enabling certain kind of automated analysis.
 
