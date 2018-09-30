@@ -20,7 +20,11 @@ The gen-classifier.py script takes two arguments. The first one is the file cont
 
 Let's consider the simple data structure Singly Linked List and the following Java implementation:
 
+<img width="278" alt="captura de pantalla 2018-09-30 a la s 20 13 10" src="https://user-images.githubusercontent.com/7095602/46263993-578dbc80-c4ed-11e8-9a98-ca2807f720c7.png">
+
 Valid objects are those that satisfy the class invariant of Singly Linked List, and invalid objects are those that do not satisfy the invariant. The class invariant states that the list must be acyclic and that the number of nodes must equal to the value of the size field:
+
+<img width="401" alt="captura de pantalla 2018-09-30 a la s 20 14 55" src="https://user-images.githubusercontent.com/7095602/46264011-860b9780-c4ed-11e8-9021-8e058cda1977.png">
 
 
 
