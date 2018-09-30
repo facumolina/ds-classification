@@ -1,4 +1,4 @@
-# Data Structure Objects Classification
+# Data Structure Object Classification
 
 Using valid and invalid data structure objects, train a supervised learning algorithm in order to obtain a data structure object classifier.
 
